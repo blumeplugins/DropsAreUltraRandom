@@ -8,6 +8,11 @@ Minecraft mod access repository for DropsAreUltraRandom
 058aa284-c0cf-4826-beae-9df1cb411623
 <!-- BLUMECORE-YOUTUBER:__global_blume__:END -->
 
+# BlumeCore: Parkillerz
+<!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:START -->
+8f407f29-695d-469c-9be7-68b98acc9007
+<!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:END -->
+
 # BlumeCore: Zud
 <!-- BLUMECORE-YOUTUBER:xU1r9e5vyIIq30Eeoqii:START -->
 13560235-6e7f-47a2-9ff1-ef7b39067185
