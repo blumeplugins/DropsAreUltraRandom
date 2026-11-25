@@ -3,6 +3,12 @@ Minecraft mod access repository for DropsAreUltraRandom
 
 <!-- BLUMECORE-MANAGED-START -->
 
+# BlumeCore: Anko
+<!-- BLUMECORE-YOUTUBER:va3GgOltpiObLQDnpWr5:START -->
+1f434f1b-1869-4e97-bba5-2652eff084d9
+54d775aa-4a72-462c-85e3-68f01c4e7c91
+<!-- BLUMECORE-YOUTUBER:va3GgOltpiObLQDnpWr5:END -->
+
 # BlumeCore: Global Blume
 <!-- BLUMECORE-YOUTUBER:__global_blume__:START -->
 058aa284-c0cf-4826-beae-9df1cb411623
